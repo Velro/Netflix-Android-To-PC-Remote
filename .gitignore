@@ -213,3 +213,13 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## Personal
+#############
+*.csproj
+*.sln
+Source/NetflixDesktop/Library
+Source/NetflixDesktop/obj
+Source/NetflixMobile/Library
+Source/NetflixMobile/obj
